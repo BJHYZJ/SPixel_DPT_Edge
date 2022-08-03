@@ -1,0 +1,15 @@
+.idea
+.vscode
+data_preprocessing/
+inference_model/
+new_train_ckpt/
+output/
+pretrain_ckpt/
+runs/
+SomethingOutput/
+study/
+*.txt
+model_best.pth.tar
+__pycache__/
+nyu_test_set/
+logger/
